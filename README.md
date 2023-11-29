@@ -14,3 +14,7 @@ After participating in an Industrial Talk: Overview of ICT Jobs in Clarity Techw
 
 ## Reflection
 After this talk, I found that jobs in ICT are important as they are solving issues related to IT technology. Such as advancing applications/website to increase customer satisfaction and improving cybersecurity. Jobs in ICT is crucial to changing the world to become more adaptable to new technologies and thus our society can become more developed globally.
+
+### Courses
+
+[<img width="100" height="100" src="https://www.biia.com/wp-content/uploads/2015/04/Information-Technology-300.jpg">](https://github.com/jun9187/TIS)  [Technology and Information System](https://github.com/jun9187/TIS)
